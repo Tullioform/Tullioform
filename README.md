@@ -1,7 +1,7 @@
 ## Hello! Thank you for visiting my page! 
 
 Currently (as of 2025) I am an MSc student in Condensed Matter Physics. 
-I have studied both in Naples, Italy, and Groningen, Netherlands.
+I have attended the University of Naples Federico II and Rijksuniversiteit Groningen.
 I'm interested in quantum technologies, simulation of physical systems, statistical mechanics and data analysis.
 I am planning to take a master in Quantum Science and Technologies after my degree.
 
