@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello! Thank you for visiting my page! 
+
+Currently (as of 2025) I am an MSc student in Condensed Matter Physics. 
+I have studied both in Naples, Italy, and Groningen, Netherlands.
+I'm interested in quantum technologies, simulation of physical systems, statistical mechanics and data analysis.
+I am planning to take a master in Quantum Science and Technologies after my degree.
+
+### Here I will post my works, which could be actual university projects or projects I did for leisure, feel free to take a look!
 
 <!--
 **Tullioform/Tullioform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
