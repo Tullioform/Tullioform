@@ -1,11 +1,14 @@
-## Hello! Thank you for visiting my page! 
+## Hello 👋 Thank you for visiting my page! 
 
-Currently (as of 2025) I am an MSc student in Condensed Matter Physics. 
-I have attended the University of Naples Federico II and Rijksuniversiteit Groningen.
-I'm interested in quantum technologies, simulation of physical systems, statistical mechanics and data analysis.
-I am planning to take a master in Quantum Science and Technologies after my degree.
+- ⚛️ Currently I am a **MsC student in Condensed Matter Physics** @ University Federico II, Naples, Italy 
+- 🌍 Attended the University of **Naples Federico II** :it: and **Rijksuniversiteit Groningen** 🇳🇱
+- 👜 Working on my thesis titled **"Stability of Poor man's Majorana in a minimal quantum dots Kitaev chain"**
+- ⚙️ Specializing in **transport mechanics of nanoscopic/mesoscopic systems**, **open quantum systems**, **superconducting and topological quantum computing**
+- 🗣️ Languages: Italian :it: (Native), English 🇬🇧 (Professional), Spanish :es: (Basic)
+- 💻 Experienced with **Python**, **Wolfram Mathematica**
+- 🚀 Passionate about **Quantum Computing, superconductors, nanotechnology, physical modeling, CNNs and DNNs**
 
-### Here I will post my works, which could be actual university projects or projects I did for leisure, feel free to take a look!
+📫 Contact: tullio.formisano@hotmail.com, tu.formisano@studenti.unina.it
 
 <!--
 **Tullioform/Tullioform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
