@@ -1,5 +1,5 @@
 <h2 align="center">
-  <b>Hello 👋 Thank you for visiting my page!</b>
+  <b>Hello 👋 Welcome to my page!</b>
 </h2>
 
 - ⚛️ Currently I am a **MsC student in Condensed Matter Physics** @ University Federico II, Naples, Italy 
