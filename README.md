@@ -1,4 +1,6 @@
-## Hello 👋 Thank you for visiting my page! 
+<h2 align="center">
+  <b>Hello 👋 Thank you for visiting my page!</b>
+</h2>
 
 - ⚛️ Currently I am a **MsC student in Condensed Matter Physics** @ University Federico II, Naples, Italy 
 - 🌍 Attended the University of **Naples Federico II** :it: and **Rijksuniversiteit Groningen** 🇳🇱
