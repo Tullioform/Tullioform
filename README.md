@@ -8,7 +8,7 @@
 - ⚙️ Specializing in **transport mechanics of nanoscopic/mesoscopic systems**, **open quantum systems**, **superconducting and topological quantum computing**
 - 🗣️ Languages: Italian :it: (Native), English 🇬🇧 (Professional), Spanish :es: (Basic)
 - 💻 Experienced with **Python**, **Wolfram Mathematica**
-- 🚀 Passionate about **Quantum Computing, superconductors, nanotechnology, physical modeling, CNNs and DNNs**
+- 🚀 Passionate about **Quantum Computing, superconductors, nanotechnology, physical modeling**
 
 📫 Contact: tullio.formisano@hotmail.com, tu.formisano@studenti.unina.it
 
